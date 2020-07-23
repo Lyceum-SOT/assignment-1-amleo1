@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo " hii iam amleo
+   my username:$(whoami)
+   today is:$(date)">prob.txt
+
