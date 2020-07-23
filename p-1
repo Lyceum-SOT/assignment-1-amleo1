@@ -1,0 +1,6 @@
+#!/bin/sh
+echo"hii i am amleo 
+ my username is $(whoami)
+ today is $(date)"
+
+
