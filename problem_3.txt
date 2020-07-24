@@ -1,0 +1,3 @@
+#!/bin/sh
+echo"output is $(./a.out)">problem_3.txt
+
